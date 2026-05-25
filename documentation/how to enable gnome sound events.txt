@@ -2,7 +2,7 @@ Open terminal and run these comands in the following order:
 
 gsettings set org.gnome.desktop.sound event-sounds true
 gsettings set org.gnome.desktop.sound theme-name 'simple'
-gsettings set org.gnome.desktop.sound input-feedback-sounds true  # Optional
+gsettings set org.gnome.desktop.sound input-feedback-sounds true
 
 
 Open gnome-tweaks, goto sounds/system sound theme, select "simple" then reboot!
